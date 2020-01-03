@@ -6,5 +6,6 @@ public class Test {
 		System.out.println(s);
 		System.out.println(".....");
 		System.out.println("主分支");
+		System.out.println("分支");
 	}
 }
