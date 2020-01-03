@@ -5,5 +5,6 @@ public class Test {
 		String s="aaa";
 		System.out.println(s);
 		System.out.println(".....");
+		System.out.println("分支");
 	}
 }
